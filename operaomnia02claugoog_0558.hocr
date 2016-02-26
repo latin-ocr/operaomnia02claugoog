@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomnia02claugoog/operaomnia02claugoog_0558.png"; bbox 0 0 3034 4934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 726 2220 2541 2429">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 726 2220 2541 2429">
+     <span class='ocr_line' id='line_1_1' title="bbox 726 2220 2541 2287; baseline -0.003 -12"><span class='ocrx_word' id='word_1_1' title='bbox 726 2220 826 2275; x_wconf 81' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 859 2225 1057 2277; x_wconf 81' lang='lat' dir='ltr'><strong>Em&#39;r.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1088 2222 1396 2277; x_wconf 79' lang='lat' dir='ltr'>NICOLAI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1430 2221 1736 2287; x_wconf 71' lang='lat' dir='ltr'><strong>Hssmsn,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1783 2221 1962 2275; x_wconf 74' lang='lat' dir='ltr'><strong>FILII</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1996 2220 2176 2274; x_wconf 82' lang='lat' dir='ltr'><strong>DAN.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2210 2220 2495 2274; x_wconf 55' lang='lat' dir='ltr'><strong>nnn-1811</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2525 2239 2541 2270; x_wconf 72' lang='grc' dir='ltr'>ε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 965 2350 2298 2429; baseline -0.001 -25"><span class='ocrx_word' id='word_1_9' title='bbox 965 2350 1515 2417; x_wconf 75' lang='lat' dir='ltr'>AMSTELODAMI,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1548 2351 1755 2404; x_wconf 83' lang='lat' dir='ltr'>APUD</span> <span class='ocrx_word' id='word_1_11' title='bbox 1786 2351 2117 2429; x_wconf 65' lang='lat' dir='ltr'><strong>namn.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2150 2355 2298 2403; x_wconf 76' lang='lat'><strong>1666.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2997 1455 3004 2159">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2997 1455 3004 2159">
+     <span class='ocr_line' id='line_1_3' title="bbox 2997 1455 3004 2159; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 2997 1455 3004 2159; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
